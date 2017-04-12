@@ -6,8 +6,8 @@ EAPI=5
 inherit java-pkg-2
 
 DESCRIPTION="An image to ASCII converter written in Java"
-HOMEPAGE="http://www.roqe.org/jitac/"
-SRC_URI="http://www.roqe.org/jitac/${P}.src.jar"
+HOMEPAGE="http://www.mlsec.org/jitac/"
+SRC_URI="http://www.mlsec.org/jitac/${P}.src.jar"
 
 LICENSE="GPL-3"
 SLOT="0"
